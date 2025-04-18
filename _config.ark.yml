@@ -312,8 +312,8 @@ gitalk:
 # valine
 # https://valine.js.org
 valine:
-  appId: # leancloud application app id
-  appKey:  # leancloud application app key
+  appId: u1bvM6Yp3jjWxZUCSWBIRcq4-MdYXbMMI # leancloud application app id
+  appKey:  fK51o1GTfGZPhFjTPKcaOCbu # leancloud application app key
 
   avatar: # gravatar style https://valine.js.org/#/avatar
   serverURLs:  # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
@@ -453,12 +453,12 @@ messenger:
 footer:
   owner:
     enable: true
-    since: 2016
+    since: 2020
   custom_text:
   copyright: false # Copyright of theme and framework
   record:
     enable: true
-    text: 浙ICP备2021026687号-1
+    text: 鲁ICP备2024106950号-1
     link: https://beian.miit.gov.cn/
   bdageitem:
     - link: https://hexo.io/ #徽标指向网站链接

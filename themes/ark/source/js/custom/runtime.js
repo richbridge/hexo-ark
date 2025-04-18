@@ -29,7 +29,7 @@ setInterval(() => {
   }//秒
   //早上7点到晚上10点营业
   if ((Number(time[2])<22) && (Number(time[2])>7)){
-    currentTimeHtml ="<div class='ark-footer-reminder'>糖果屋营业中</div><div class='ark-footer-timer'>建站时间持续增长中</div><div id='ark-site-runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
+    currentTimeHtml ="<div class='ark-footer-reminder'>梵刹营业中</div><div class='ark-footer-timer'>建站时间持续增长中</div><div id='ark-site-runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';
   } 
   //其余时间打烊
   else{
