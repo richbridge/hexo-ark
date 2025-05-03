@@ -744,12 +744,12 @@ aside:
     description:
     button:
       icon: fa fa-paper-plane faa-tada
-      text: 加入糖果屋群聊
+      text: 加入梵刹香客
       link: https://jq.qq.com/?_wv=1027&k=5o4Iga8D
       enable: true
   card_announcement:
     enable: false
-    content: 欢迎光临糖果屋<br>愿你享受愉快的一天 
+    content: 欢迎光临梵刹<br>愿你享受愉快的一天 
   card_friend_link: #友链通讯录
     enable: true
     sort_order: # Don't modify the setting unless you know how it works'
