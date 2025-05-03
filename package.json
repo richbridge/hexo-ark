@@ -21,7 +21,7 @@
     "hexo-blog-encrypt-customized": "^3.1.8",
     "hexo-butterfly-envelope": "^1.0.15",
     "hexo-butterfly-extjs": "^1.2.7",
-    "hexo-deployer-git": "^3.0.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-filter-fcircle": "^0.0.8",
     "hexo-filter-nofollow": "^2.0.2",
     "hexo-generator-archive": "^1.0.0",
