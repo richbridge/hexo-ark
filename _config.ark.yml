@@ -269,7 +269,7 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use: Valine # Valine,Disqus
+  use: Giscus # Valine,Disqus
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -315,7 +315,7 @@ valine:
   appId: NlZgJJvAVQhQx26rYRlSY3wg-gzGzoHsz # leancloud application app id
   appKey: A9Qu7JnRQdKQlB3fqtZs4yis # leancloud application app key
   avatar:  # gravatar style https://valine.js.org/#/avatar
-  serverURLs:  # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
+  serverURLs: https://nlzgjjva.lc-cn-n1-shared.com # This configuration is suitable for domestic custom domain name users, overseas version will be automatically detected (no need to manually fill in)
   bg: # valine background
   visitor: false
   option:
@@ -377,9 +377,9 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo:
-  repo_id:
-  category_id:
+  repo: richbridge/hexo-ark
+  repo_id: R_kgDOOjzGLw
+  category_id: DIC_kwDOOjzGL84Cpur2
   theme:
     light: light
     dark: dark
